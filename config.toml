@@ -1,7 +1,8 @@
 baseURL = "https://johanacardona.com/"
-languageCode = "es-co"
-title = "a blog?"
+title = "un blog?"
 theme = "harbor"
+languageCode = "es"
+DefaultContentLanguage = "es"
 
 [Author]
   name = "Daniel"
