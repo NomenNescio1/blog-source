@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Pages on a blog?</title>
+		<title>Pages on un blog?</title>
 		<link>https://johanacardona.com/page/</link>
 		<description>Recent content in Pages </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
-  		<language>es-co</language>
+  		<language>es</language>
 		
 		<managingEditor>Page(/page) (Daniel)</managingEditor>
     	

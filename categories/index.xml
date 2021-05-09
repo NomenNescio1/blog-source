@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on a blog?</title>
+		<title>Categories on un blog?</title>
 		<link>https://johanacardona.com/categories/</link>
 		<description>Recent content in Categories </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
-  		<language>es-co</language>
+  		<language>es</language>
 		
 		<managingEditor>Page(/categories) (Daniel)</managingEditor>
     	
