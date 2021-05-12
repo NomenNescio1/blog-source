@@ -7,6 +7,9 @@ DefaultContentLanguage = "es"
 [Author]
   name = "Daniel"
 
+[params.logoText]
+  value = "Home"
+
 [[params.nav]]
   identifier = "about"
   name = "About"

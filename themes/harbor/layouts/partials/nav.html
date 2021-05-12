@@ -11,6 +11,12 @@
       </a>
     {{ end }}
 
+    {{ if .Site.Params.logoText }}
+      <a href="{{ "" | absLangURL }}" class="nav-logo">
+        {{ .Site.Params.logoText.value }}
+      </a>
+    {{ end }}
+
     <ul class="nav-links">
       {{ range .Site.Params.nav }}
         {{ if .icon }}
