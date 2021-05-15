@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://johanacardona.com/about/</loc>
+    <loc>https://johanacardona.com/post/home/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johanacardona.com/page/home/</loc>
+    <loc>https://johanacardona.com/page/about/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johanacardona.com/post/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johanacardona.com/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johanacardona.com/page/</loc>
+    <lastmod>2021-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://johanacardona.com/page/search/</loc>
   </url><url>
     <loc>https://johanacardona.com/categories/</loc>
   </url><url>
-    <loc>https://johanacardona.com/page/</loc>
-  </url><url>
     <loc>https://johanacardona.com/tags/</loc>
-  </url><url>
-    <loc>https://johanacardona.com/</loc>
   </url>
 </urlset>

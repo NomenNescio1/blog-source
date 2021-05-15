@@ -69,6 +69,13 @@ a {
   transition: transform 300ms ease-out;
 }
 
+.nav-logo-text {
+  float: left;
+  transition: transform 300ms ease-out;
+  color: initial;
+  text-decoration: none;
+}
+
 .nav-logo:hover {
   transform: scale(1.1);
 }
