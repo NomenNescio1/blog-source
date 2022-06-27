@@ -1,3 +1,9 @@
+---
+title: 'para que lo deje publicar'
+weight: 2
+date: 2022-06-26
+---
+
 que pasa cuando el unico lugar que creia que era seguro deja de serlo
 cuando parece que las paredes aprietan, que ahogan
 cuando los pnsamientos rebotan perpetuamente y en cada rebote golpean mas duro
