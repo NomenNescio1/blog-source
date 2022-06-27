@@ -127,7 +127,7 @@ const renderResults = (results) => {
     let resultPage = document.createElement('div')
     resultPage.className = 'searchResultPage'
     let metadata = lunrResult[idx].matchData.metadata
-    let matchPosition = metadata[Object.keys(metadata)[0]].body.position[0][0]
+    let matchPosition = metadata[Object.keys(metadata)[0]]?.body?.position?.[0]?.[0]
     let bodyStartPosition =
       matchPosition - BODY_LENGTH / 2 > 0 ? matchPosition - BODY_LENGTH / 2 : 0
 
