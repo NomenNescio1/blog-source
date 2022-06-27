@@ -14,7 +14,7 @@ DefaultContentLanguage = "es"
   section = ["JSON", "HTML"]
 
 [params]
-  customCSS = ["un-blog/css/custom.css"]
+  customCSS = ["/css/custom.css"]
   mainSections = ["post"]
 
 [params.logoText]
