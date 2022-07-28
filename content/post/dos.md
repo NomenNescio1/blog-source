@@ -2,6 +2,7 @@
 title: 'sería buena idea hacer un post sobre el pporno'
 weight: 2
 date: 2021-05-23
+draft: true
 ---
 
 El título no es una casualidad. Así como está (sin el error, pero lo dejo porque me pareció gracioso) aterrizó mientras veía una tendencia no apta para menores en twitter. Bueno, con ánimos de ser fiel a la verdad, no era una tendencia y no la encontré por accidente, la busqué porque quería alimentar el ojo. Se trataba de una señorita (señora, de hecho) particularmente voluptuosa que vive una vida opulenta gracias a las donaciones de hombres solitarios que se imaginan lo que hay detrás de un prominente escote. No es la intención de esta entrada criticar el origen de la riqueza ajena ni que me tachen de misógino y me cancelen, aunque esto último requeriría que al menos una persona la leyera lo cual parece improbable. 
