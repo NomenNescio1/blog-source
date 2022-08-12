@@ -2,7 +2,6 @@
 title: 'toma una pista (true ending)'
 weight: 2
 date: 2022-06-26
-draft: true
 ---
 El título es la traducción literal del modismo _take a hint_. Evidentemente el significado se pierde, lo cual es una pena. Estuve un buen rato pensando en una que le hiciera más justicia y pensé en _a buen entendedor, pocas palabras_, pero siento que el mensaje que transmite es otro. Luego concluí que la mejor traducción de la frase es _amiga, date cuenta_. Es corta, sucinta y comunica la misma idea: dejarle claro a una persona que le intentan decir algo entre líneas, un mensaje tácito. 
 
