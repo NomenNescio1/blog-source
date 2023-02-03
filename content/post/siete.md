@@ -1,5 +1,5 @@
 ---
-title: '?'
+title: 'seis meses'
 weight: 2
 date: 2023-01-02
 ---
@@ -8,4 +8,6 @@ en el trabajo hacen mucho énfasis en el valor de entregar y recibir feedback, a
 
 volviendo al asunto de la retroalimentación, nos dicen que es valiosa en cualquier entorno y que se le puede sacar mucho provecho si se hace con honestidad y se recibe con humildad. en este caso puntual, cuando han pasado seis meses desde que nuestros pulgares nos dieron la oportunidad de conocernos, quería ponerlo en práctica, en principio de manera jocosa. iba a hacer un formulario con preguntas rigurosas, que se notara exagerado y absurdo, fuera de lugar. pero la verdad es que no se me ocurrió ninguna. además probablemente no iba a aterrizar el chiste como ya nos ha pasado en muchas ocasiones, tendría que explicarlo y se le perdería la ~~poca~~ gracia. en todo caso, la intención era también hacer el ejercicio a conciencia, así que opté por invertir el esfuerzo en estas letras. 
 
-aunque no será del todo a conciencia, primero porque tengo un conflicto de intereses innegable y segundo porque hacerte una lista de cosas por cambiar no parece muy apropiado a los seis meses. capaz más adelante, cuando sean otros seis, si nos seguimos aguantando o si el de arriba nos da licencia. cada vez que lo recuerdo o lo escribo o lo digo en voz alta parece mentira; que sean ya seis meses es inverosímil a más no poder. da la impresión que fue esta semana cuando nos vimos por primera vez y pensaste que en realidad era un anciano que vende flores y que estaba buscando una jovencita que le diera una oportunidad. escenario que no se aleja tanto de la realidad, si se me permite el atrevimiento. 
+aunque no será del todo a conciencia, primero porque tengo un conflicto de intereses innegable y segundo porque hacerte una lista de cosas por cambiar no parece muy apropiado a los seis meses. capaz más adelante, cuando sean otros seis, si nos seguimos aguantando o si el de arriba nos da licencia. cada vez que lo recuerdo o lo escribo o lo digo en voz alta parece mentira; que sean ya seis meses es inverosímil a más no poder. da la impresión que fue esta semana cuando nos vimos por primera vez y pensaste que en realidad era un anciano que vende flores y que estaba buscando una jovencita que le diera una oportunidad. escenario que no dista tanto de la realidad, si se me permite el atrevimiento.
+
+puede que si lo repito en la entrada o si la bautizo con ese periodo, empieza a ser más creíble. es difícil de creer porque pareciera que nos conocemos desde hace más, que ha pasado más tiempo y que tenemos aniversarios encima. es difícil de creer porque no había conseguido tanta confianza con alguien en tan poco tiempo. es difícil de creer porque han sido seis meses, en su mayoría, sin dificultades.
