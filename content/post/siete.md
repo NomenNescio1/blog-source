@@ -1,0 +1,11 @@
+---
+title: '?'
+weight: 2
+date: 2023-01-02
+---
+
+en el trabajo hacen mucho énfasis en el valor de entregar y recibir feedback, aunque se rehúsan a usar la palabra en español. y no es por otra razón sino porque quieren, es un entorno en el que es muy común que usen palabras en inglés a pesar de que existe su equivalente en español. por ejemplo, saludan diciendo 'buenos días, team'. ¿por qué? ¿muy costoso decir "buenos días equipo"? es que no suena tan bien, debe ser. ejemplos así hay por montones, pero aquí vine a hablar de otra cosa.
+
+volviendo al asunto de la retroalimentación, nos dicen que es valiosa en cualquier entorno y que se le puede sacar mucho provecho si se hace con honestidad y se recibe con humildad. en este caso puntual, cuando han pasado seis meses desde que nuestros pulgares nos dieron la oportunidad de conocernos, quería ponerlo en práctica, en principio de manera jocosa. iba a hacer un formulario con preguntas rigurosas, que se notara exagerado y absurdo, fuera de lugar. pero la verdad es que no se me ocurrió ninguna. además probablemente no iba a aterrizar el chiste como ya nos ha pasado en muchas ocasiones, tendría que explicarlo y se le perdería la ~~poca~~ gracia. en todo caso, la intención era también hacer el ejercicio a conciencia, así que opté por invertir el esfuerzo en estas letras. 
+
+aunque no será del todo a conciencia, primero porque tengo un conflicto de intereses innegable y segundo porque hacerte una lista de cosas por cambiar no parece muy apropiado a los seis meses. capaz más adelante, cuando sean otros seis, si nos seguimos aguantando o si el de arriba nos da licencia. cada vez que lo recuerdo o lo escribo o lo digo en voz alta parece mentira; que sean ya seis meses es inverosímil a más no poder. da la impresión que fue esta semana cuando nos vimos por primera vez y pensaste que en realidad era un anciano que vende flores y que estaba buscando una jovencita que le diera una oportunidad. escenario que no se aleja tanto de la realidad, si se me permite el atrevimiento. 
